@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Environment & Secrets
+.env
+*.env
+
+# Database (optional - remove if you want to commit sample data)
+*.db
+*.sqlite
+
+# IDE
+.cursor/
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

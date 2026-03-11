@@ -1,0 +1,1 @@
+Fehler bei Agenten-Abfrage: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CYjoDSx8zJiFa3g7PFJ6P'}
